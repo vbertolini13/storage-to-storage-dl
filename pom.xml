@@ -88,7 +88,7 @@
 							<goal>shade</goal>
 						</goals>
 						<configuration>
-							<finalName>topic-to-bigquery-dl</finalName>
+							<finalName>storage-to-storage-topn-dl</finalName>
 							<filters>
 								<filter>
 									<artifact>*:*</artifact>
