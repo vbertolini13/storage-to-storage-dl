@@ -2,8 +2,8 @@ package com.example.storagetostorage.util;
 
 public class Constants {
 
-    public static final String START_PROCESS = "Starting process storage to bigquery";
-    public static final String FINISHED_PROCESS = "Finished process storage to bigquery";
+    public static final String START_PROCESS = "Starting process storage to storage";
+    public static final String FINISHED_PROCESS = "Finished process storage to storage";
     public static final String READ_CSV = "ReadLineFromCsv";
     public static final String LINE_TO_PLAYER = "LineToPlayer";
     public static final String PLAYER_TO_KV = "PlayerToKV";
