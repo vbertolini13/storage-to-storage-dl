@@ -28,7 +28,7 @@
 		<maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
 		<exec-maven-plugin.version>1.6.0</exec-maven-plugin.version>
 		<slf4j.version>1.7.25</slf4j.version>
-		<logback.version>1.2.3</logback.version>
+		<logback.version>1.2.13</logback.version>
 		<lombok.version>1.16.16</lombok.version>
 		<beam.version>2.9.0</beam.version>
 		<google.dataflow.version>2.5.0</google.dataflow.version>
